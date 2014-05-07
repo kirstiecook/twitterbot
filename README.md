@@ -1,6 +1,6 @@
 # twitterbot
 
-FIXME: description
+Tutorial here: http://nerd.kelseyinnis.com/blog/2014/05/06/talking-to-yourself-a-twitter-bot-in-clojure-by-a-total-newb/
 
 ## Installation
 
